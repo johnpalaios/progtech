@@ -5,8 +5,9 @@ This Repository contains the projects created for the programming course "Progra
 
 
 During that course, I learned : 
-Basic (and some advanced too) Data Structures, 
 
-Algorithms about Data Structures in C++, 
+1.Basic (and some advanced too) Data Structures
 
-the essentials about the STL Library, containers and iterators in C++.
+2.Algorithms about Data Structures in C++
+
+3.The essentials about the STL Library, containers and iterators in C++.
