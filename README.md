@@ -1,5 +1,5 @@
 # progtech
-This Repository contains the projects created for the programming course "Programming Techniques" at the school of Electrical and Computer Engineering in the National Technical University of Athens.
+This Repository contains the projects created for the programming course "Programming Techniques" (2nd Semester) at the school of Electrical and Computer Engineering in the National Technical University of Athens.
 
 
 
